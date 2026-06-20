@@ -1,0 +1,9 @@
+{
+  "parsed_movies": 2000,
+  "detail_pages": 2000,
+  "category_pages": 17,
+  "m3u8_urls_extracted_from_original_js": 150,
+  "html_pages_total": 2021,
+  "analytics_id": "95df08bc498ee0333203841fd6fee1eb",
+  "cover_reference_pattern": "top-level 1.jpg to 150.jpg, reused cyclically"
+}
